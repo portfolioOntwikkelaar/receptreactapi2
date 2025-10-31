@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/receptreactapi2/static/css/main.6a6ffda8.css",
+    "main.js": "/receptreactapi2/static/js/main.5b1e8224.js",
+    "static/media/shop.jpeg": "/receptreactapi2/static/media/shop.6faecf19c48b4061f203.jpeg",
+    "static/media/cake2.png": "/receptreactapi2/static/media/cake2.6db41b60d030a78f1244.png",
+    "index.html": "/receptreactapi2/index.html",
+    "main.6a6ffda8.css.map": "/receptreactapi2/static/css/main.6a6ffda8.css.map",
+    "main.5b1e8224.js.map": "/receptreactapi2/static/js/main.5b1e8224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6ffda8.css",
+    "static/js/main.5b1e8224.js"
+  ]
+}
